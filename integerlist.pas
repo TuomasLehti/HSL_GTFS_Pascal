@@ -102,4 +102,6 @@ end.
 
 {Muutoshistoria:
 
-2018-08-12: Ensimmäinen versio.}
+2018-08-12: Ensimmäinen versio.
+
+Todo: SetCommaStr, property CommaStr}
